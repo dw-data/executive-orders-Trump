@@ -23,7 +23,7 @@ Data on legal challenges to the Trump Administration was drawn from the [Litigat
 
 Executive orders were extracted from their dropdown menu and matched to the list of executive orders from the previous section via the executive order number assigned by the Federal Register.
 
-Additionally, the page as manually scanned for mentions of executive orders for further validation.
+Additionally, the page as manually scanned for mentions of executive orders for further validation. This resulted in four additional classifications: 14190 mentioned in Case No. 1:25-cv-10548, 14195 mentioned in Case No. 3:25-cv-00464, 14242 mentioned in the header before Case No. 1:25-cv-10601, 14251 mentioned in Case No.1:25-cv-01030  
 
 While the Litigation Tracker differentiates between different types of legal challenges, we did not make any distinction between different types such as temporary restraining orders (TRO),  other motions, petitions or complaints. Whenever any of such cases was in relation to an executive order, that order was subsequently manually tagged as legally challenged in our database.
 
