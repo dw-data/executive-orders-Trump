@@ -11,7 +11,9 @@ Editing: Milan Gagnon
 
 # Data sources & processing
 
-Data was last pulled from all sources on April 28, 2025
+Data was last pulled from all sources on April 28, 2025.
+
+You can review it in [this Google Sheet](https://docs.google.com/spreadsheets/d/1KrxeJ5sPvirGUhL9i0E4QmwiMQg5O8odtTOBXdEGuLg/edit?usp=sharing)
 
 ## Executive orders
 
