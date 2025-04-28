@@ -19,7 +19,7 @@ You can review it in [this Google Sheet](https://docs.google.com/spreadsheets/d/
 
 Data on executive orders were mainly taken from [Federal Register](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025). The Federal Register was chosen mainly over [WhiteHouse.gov](https://www.whitehouse.gov/presidential-actions/), because the Federal Register also includes metadata such as the EO number that allows to cross-reference this database with others. This was essential for example to evaluate which executive orders have been legally challenged.
 
-As there is a slight time delay between the publication on the White House website and the Federal Register, six executive orders were pulled directly from the White House website prior to publication of the article to contain the most recently available information.
+As there is a slight time delay between the publication on the White House website and the Federal Register, two executive orders were pulled directly from the White House website prior to publication of the article to contain the most recently available information.
 
 ## Legal Challenges
 
